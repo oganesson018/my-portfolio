@@ -42,7 +42,7 @@ function Hero() {
       <div className="hero-inner reveal">
         <p className="eyebrow">Portfolio</p>
         <h1 className="headline">Thanathip Premnirandon</h1>
-        <div className="avatar reveal"><img src="/myphoto.jpg" alt="My portrait" /></div>
+        <div className="avatar reveal"><img src="/my-portfolio/myphoto.jpg" alt="My portrait" /></div>
         <p className="sub">
           Front‑end / Creative Developer DII GEN 6 / CMU 
         </p>
